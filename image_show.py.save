@@ -1,0 +1,8 @@
+import matplotlib.pyplot as plt
+from matplotlib.image impor
+t imread
+
+img = imread('../dataset/catcus.png')
+plt.imshow(img)
+
+plt.show()
